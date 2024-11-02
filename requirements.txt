@@ -1,0 +1,9 @@
+streamlit
+langchain
+faiss-cpu
+pandas
+openpyxl
+unstructured
+requests 
+pypdf 
+python-docx 
